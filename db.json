@@ -17,6 +17,24 @@
             "IPs": [
                 "200.156.27.135/32"
             ]
+        },
+        {
+            "Id": "e1a432b2-32f7-4a7e-b51a-85777fd91a1a",
+            "Cloud":"AWS",
+            "Owner": "lmantovani",
+            "Created": "2019-09-02 18:28:20",
+            "DeleteTime": "2019-09-02 18:33:20",
+            "Type": "ip",
+            "Active": "True",
+            "Domains": [
+                "jose.pepe.com"
+            ],
+            "WebACLs": [
+                "VEGETA_TEST_NO_BORRAR"
+            ],
+            "IPs": [
+                "200.156.27.135/32"
+            ]
         }
     ]
 }

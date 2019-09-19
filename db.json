@@ -11,7 +11,8 @@
                 "jose.pepe.com"
             ],
             "WebACLs": [
-                "VEGETA_TEST_NO_BORRAR"
+                "VEGETA_TEST_NO_BORRAR",
+                "WAF_WACL_FRONT_ARG"
             ],
             "IPs": [
                 "200.156.27.135/32"
@@ -29,7 +30,8 @@
                 "jose.pepe.com"
             ],
             "WebACLs": [
-                "VEGETA_TEST_NO_BORRAR"
+                "VEGETA_TEST_NO_BORRAR",
+                "WAF_WACL_PAGAMENTO_MP"
             ],
             "IPs": [
                 "200.156.27.135/32"
